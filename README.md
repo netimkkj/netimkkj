@@ -155,7 +155,7 @@ Snake
 ### Visualizações de Perfil  
 A contagem de visitantes desta página nesta seção começou em 17 de out de 2025.
 
-![:netimkkj]([[https://count.getloli.com/get/@:netimkkj))
+![:netimkkj]([[https://count.getloli.com/get/@netimkkj))
 
 </div>
 
