@@ -13,7 +13,7 @@
 </span>
 
 
-### ABAP Programming Student | Full Stack Developer  
+### ABAP Programming Student | Full Stack Developer Junior
 
 <div align="center">
   <a href="https://github.com/netimkkj">
@@ -29,22 +29,13 @@
 ---
 
 ## 🌟 Sobre Mim
-<img 
-    src="(https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f4668010c913b6cbca44df623fa81c6e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=855e90e4&x-expires=1760893200&x-signature=rfico4lQi%2B32IucM4E%2Fr5wvRo6U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva)" 
-    alt="Gabriel's picture" 
-    height="150" width="120" align="right"
-    style="border-radius:50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" 
-  />
 
 
-Sou desenvolvedor Full-Stack com experiência na criação de soluções web robustas e funcionais. Tenho conhecimento em ABAP, o que fortalece minha atuação na integração de tecnologias e sistemas corporativos. Atualmente, curso Engenharia de Software e estou sempre em busca de aprendizado contínuo e desafios que me permitam evoluir profissionalmente. Estou aberto a novas oportunidades onde eu possa aplicar e expandir minhas habilidades.
+Sou desenvolvedor Júnior Full-Stack com experiência na criação sistemas de controles e relatórios. o que fortalece minha atuação na integração de tecnologias e sistemas corporativos. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou sempre em busca de aprendizado contínuo e desafios que me permitam evoluir profissionalmente. Estou aberto a novas oportunidades onde eu possa aplicar e expandir minhas habilidades.
 
 
 
 <div align="center">
-    <a href="https://wa.me/5585997752571">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
-  </a>
   <a href="https://www.instagram.com/@eliseun2to/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"  height="35" >
   </a>
