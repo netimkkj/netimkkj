@@ -155,7 +155,7 @@ Snake
 ### Visualizações de Perfil  
 A contagem de visitantes desta página nesta seção começou em 17 de out de 2025.
 
-![:netimkkj]([[https://count.getloli.com/@eliseusantana?name=eliseusantana&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto](https://count.getloli.com/@netimkkj?name=netimkkj&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1)))
+![:netimkkj]([[https://count.getloli.com/@netimkkj))
 
 </div>
 
