@@ -21,7 +21,6 @@
   <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCordeiroBarrosoTeles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
     <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCordeiroBarrosoTeles&layout=compact&langs_count=7&theme=dark"/>-->
     <img height="199em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCordeiroBarrosoTeles&layout=compact&langs_count=20&theme=dark" alt="Github top linguagens"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCordeiroBarrosoTeles&theme=dark" alt="Github estatísticas"/>
   </a>
 </div>
 
@@ -46,14 +45,11 @@ Sou desenvolvedor Full-Stack com experiência na criação de soluções web rob
     <a href="https://wa.me/5585997752571">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
-  <a href="https://www.instagram.com/gbielcordeiro85/" target="_blank">
+  <a href="https://www.instagram.com/@eliseun2to/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"  height="35" >
   </a>
-  <a href="mailto:gabrielcordeirobarroso@gmail.com" target="_blank">
+  <a href="mailto:eliseusantananeto@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  height="35">
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-cordeiro-barroso/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
   </a>
   
 </div>
@@ -70,8 +66,6 @@ Sou desenvolvedor Full-Stack com experiência na criação de soluções web rob
   <!--
     Peguei os icons no repositorio https://github.com/tandpfun/skill-icons
   -->
-  <!--ABAP-SAP-->
-  <code><img height="45" src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/Imgs_repositorios/refs/heads/main/perfil/sap.png"></code>
   <!--Swift
   <code><img height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Swift.svg"></code>-->
   <!--HTML-->
@@ -168,7 +162,7 @@ Snake
 <div align="center">
 
 ### Visualizações de Perfil  
-A contagem de visitantes desta página nesta seção começou em 4 de jul de 2025.
+A contagem de visitantes desta página nesta seção começou em 17 de out de 2025.
 
 ![:eliseusantana]([https://count.getloli.com/@eliseusantana?name=eliseusantana&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto))
 
