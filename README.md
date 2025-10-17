@@ -16,7 +16,7 @@
 ### ABAP Programming Student | Full Stack Developer  
 
 <div align="center">
-  <a href="https://github.com/GabrielCordeiroBarrosoTeles">
+  <a href="https://github.com/netimkkj">
     <!-- Uncomment this to include your GitHub Stats card -->
   <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCordeiroBarrosoTeles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
     <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCordeiroBarrosoTeles&layout=compact&langs_count=7&theme=dark"/>-->
@@ -31,7 +31,7 @@
 
 ## 🌟 Sobre Mim
 <img 
-    src="[https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/Imgs_repositorios/refs/heads/main/perfil/avatar.png](https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f4668010c913b6cbca44df623fa81c6e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=855e90e4&x-expires=1760893200&x-signature=rfico4lQi%2B32IucM4E%2Fr5wvRo6U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva)" 
+    src="(https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f4668010c913b6cbca44df623fa81c6e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=855e90e4&x-expires=1760893200&x-signature=rfico4lQi%2B32IucM4E%2Fr5wvRo6U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva)" 
     alt="Gabriel's picture" 
     height="150" width="120" align="right"
     style="border-radius:50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" 
