@@ -36,7 +36,7 @@ Sou desenvolvedor Júnior Full-Stack com experiência na criação sistemas de c
 
 
 <div align="center">
-  <a href="https://www.instagram.com/@eliseun2to/" target="_blank">
+  <a href="https://www.instagram.com/eliseun2to/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"  height="35" >
   </a>
   <a href="mailto:eliseusantananeto@gmail.com" target="_blank">
