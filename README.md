@@ -13,7 +13,7 @@
 </span>
 
 
-### ABAP Programming Student | Full Stack Developer Junior
+### Programming Student | Full Stack Developer Junior
 
 <div align="center">
   <a href="https://github.com/netimkkj">
